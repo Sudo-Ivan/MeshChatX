@@ -1,6 +1,6 @@
 aiohappyeyeballs==2.6.1 ; python_version >= "3.11"
 aiohttp-session==2.12.1 ; python_version >= "3.11"
-aiohttp==3.13.3 ; python_version >= "3.11"
+aiohttp==3.13.4 ; python_version >= "3.11"
 aiosignal==1.4.0 ; python_version >= "3.11"
 attrs==25.4.0 ; python_version >= "3.11"
 audioop-lts==0.2.2 ; python_version >= "3.13"
