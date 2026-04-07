@@ -58,8 +58,8 @@ importers:
         specifier: ^10.8.0
         version: 10.8.0
       protobufjs:
-        specifier: ^7.5.4
-        version: 7.5.4
+        specifier: ^8.0.1
+        version: 8.0.1
       qrcode:
         specifier: ^1.5.4
         version: 1.5.4
@@ -3085,8 +3085,8 @@ packages:
   proto-list@1.2.4:
     resolution: {integrity: sha512-vtK/94akxsTMhe0/cbfpR+syPuszcuwhqVjJq26CuNDgFGj682oRBXOP5MJpv2r7JtE8MsiepGIqvvOTBwn2vA==}
 
-  protobufjs@7.5.4:
-    resolution: {integrity: sha512-CvexbZtbov6jW2eXAvLukXjXUW1TzFaivC46BpWc/3BpcCysb5Vffu+B3XHMm8lVEuy2Mm4XGex8hBSg1yapPg==}
+  protobufjs@8.0.1:
+    resolution: {integrity: sha512-NWWCCscLjs+cOKF/s/XVNFRW7Yih0fdH+9brffR5NZCy8k42yRdl5KlWKMVXuI1vfCoy4o1z80XR/W/QUb3V3w==}
     engines: {node: '>=12.0.0'}
 
   protocol-buffers-schema@3.6.1:
@@ -4957,7 +4957,7 @@ snapshots:
 
   '@types/mute-stream@0.0.4':
     dependencies:
-      '@types/node': 22.19.17
+      '@types/node': 25.5.2
 
   '@types/node@22.19.17':
     dependencies:
@@ -4989,7 +4989,7 @@ snapshots:
 
   '@types/yauzl@2.10.3':
     dependencies:
-      '@types/node': 22.19.17
+      '@types/node': 25.5.2
     optional: true
 
   '@vitejs/plugin-vue@6.0.5(vite@8.0.7(@types/node@25.5.2)(jiti@1.21.7)(terser@5.46.1)(yaml@2.8.3))(vue@3.5.32(typescript@5.9.3))':
@@ -7335,7 +7335,7 @@ snapshots:
 
   proto-list@1.2.4: {}
 
-  protobufjs@7.5.4:
+  protobufjs@8.0.1:
     dependencies:
       '@protobufjs/aspromise': 1.1.2
       '@protobufjs/base64': 1.1.2

@@ -248,7 +248,7 @@
         "micron-parser": "^1.0.3",
         "mitt": "^3.0.1",
         "ol": "^10.8.0",
-        "protobufjs": "^7.5.4",
+        "protobufjs": "^8.0.1",
         "qrcode": "^1.5.4",
         "vis-data": "^7.1.10",
         "vis-network": "^9.1.13",
