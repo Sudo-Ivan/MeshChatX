@@ -250,7 +250,7 @@
         "ol": "^10.8.0",
         "protobufjs": "^7.5.4",
         "qrcode": "^1.5.4",
-        "vis-data": "^7.1.10",
+        "vis-data": "^8.0.3",
         "vis-network": "^9.1.13",
         "vite": "^8.0.7",
         "vite-plugin-vuetify": "^2.1.3",
